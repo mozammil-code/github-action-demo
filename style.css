@@ -1,4 +1,6 @@
 h1{
     display: flex;
     margin: auto;
+    color: blue;
+    text-align: center;
 }
